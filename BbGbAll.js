@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Automatically sets the Grade Center to show 35 rows
-// @match        *://courses.cscc.edu/webapps/gradebook/do/instructor/enterGradeCenter*
+// @match        *://INSERT THE LINK TO YOUR GRADEBOOK HERE*
 // @grant        none
 // ==/UserScript==
 
